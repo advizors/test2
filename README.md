@@ -24,6 +24,6 @@ This is a `for` loop
 
 ```powershell
 Get-help get-vm
-
+$x=get-vm;$x|select name
 ```
 
