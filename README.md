@@ -20,5 +20,10 @@ Tables
 |---|---|---|
 |**1**|**animals**|200$us|
 
+This is a `for` loop 
 
+```powershell
+Get-help get-vm
+
+```
 
