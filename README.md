@@ -26,5 +26,3 @@ This is a `for` loop
 Get-help get-vm
 $x=get-vm;$x|select name
 ```
-
-/i/https://www.youtube.com/embed/qkcx0kf6jME
