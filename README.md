@@ -26,3 +26,4 @@ This is a `for` loop
 Get-help get-vm
 $x=get-vm;$x|select name
 ```
+[] test
